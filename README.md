@@ -1,11 +1,4 @@
-# Web-scale Data Management Pragmatic Project - Group 12
-- Yufan Tang(5701503)
-- Zihan Wang 
-- Zhiqiang Lei 
-- Gefei Zhu
 
-Project structure with Python's Flask and CockroachDB.
-  
 ## Project structure
         
 * `k8s`
